@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   }
-  "homepage": "https://yourusername.github.io/crakcode-dark-mode",
+  "homepage": "https://subash25k.github.io/crakcode-dark-mode",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
